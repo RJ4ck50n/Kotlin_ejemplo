@@ -294,7 +294,7 @@ class MainActivity : AppCompatActivity() {
     * */
     private fun loops() {
         // Bucles
-        val myArray: List<String> = listOf("Hola", "Bienvenidos a los bucles", "Sucríbete")
+        val myArray: List<String> = listOf("Hola", "Bienvenidos a los bucles y a la gestión de cambios en Github", "Sucríbete")
         val myMap: MutableMap<String, Int> = mutableMapOf("Brais" to 1, "Maria" to 2, "Jose" to 5)
 
         // For
