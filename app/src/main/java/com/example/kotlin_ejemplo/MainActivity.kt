@@ -9,11 +9,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
-        //Lección 1:
-        //variablesYConstantes()
-
-        //Lección 2:
+       //Lección 1:
+        // Lección 2:
         //tiposDeDatos()
 
         //Lección 3:
@@ -57,8 +54,6 @@ class MainActivity : AppCompatActivity() {
         println(mySecondVariable)
         myFirstVariable = "Ya te has suscrito?"
         println(myFirstVariable)
-
-
         // Constantes
 
         val myFirstConstant = "Te ha gustado el tutorial?"
